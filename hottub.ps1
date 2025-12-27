@@ -9,7 +9,7 @@ Param(
 
 if ($Help) {
     Write-Host "Hot Tub File Archiver - File backup script for Windows clients"
-    Write-Host "v1.0 - Nicholas Mendes"
+    Write-Host "Written by Nicholas Mendes"
     Write-Host ""
     Write-Host "Options:"
     Write-Host "`t-Help: Displays this message"
