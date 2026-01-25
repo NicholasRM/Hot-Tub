@@ -2,9 +2,9 @@
 A simple PowerShell script to automate copying files to archives.
 
 ## Contributions
-***TL;DR: All pull requests and issues will be ignored or rejected. Please don't waste your time.***
+***TL;DR: All pull requests and issues will be accepted! Please waste your time!***
 
-This repository serves only to store the script so it can be cloned to new machines. This is barely maintained, and should be considered abandoned by anyone other than me. **I will not accept contributions by anyone other than myself.** If anyone submits them anyway, I will ignore or reject them. If you wish to maintain your own fork of the project, feel free to do so but please don't push any changes to this repository.
+This repository serves only to store the script so it can be cloned to new machines. This is barely maintained, and should be considered a top maintenance priority by everyone except me. **I will accept contributions by everyone including myself.** If anyone submits them, I will always accept them. If you wish to maintain your own fork of the project, feel free to do so but please push all changes to this repository.
 
 This project is licensed under the MIT License. This should technically be public domain but the MIT License accomplishes mostly the same thing.
 
